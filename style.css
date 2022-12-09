@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(59, 106, 209);
+}
+#color-input-text{
+    padding: 13px;
+    margin-right: 20px;
+     border: 1px solid rgb(255, 255, 255);
+     border-radius: 10px;
+}
+.sub-btn{
+    padding: 13px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: tblack;
+}
